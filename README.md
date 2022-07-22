@@ -1,3 +1,3 @@
-# Baixar-videos-Youtube
+# Download-videos-Youtube
 
-Este foi um projeto de estudos com javascript de como baixar videos do youtube com apenas url, aprendendo mais as bibliotecas do javascript. Usando o metodo do codigo limpo com poucas linhas de codigo e facil para entender de como funciona. 
+This was one of project javascript studies how to download youtube videos with just url, learning more about javascript libraries. Using clean code method with few lines of code and easy to understand how it works.
